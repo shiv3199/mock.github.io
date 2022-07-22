@@ -1,0 +1,13 @@
+body
+{
+    background-color: yellow;
+}
+div{
+    display: flexbox;
+}
+.nav li{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    text-align: center;
+    }
